@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hola soy Daizfer,
 
-<!--
-**Daizfer/Daizfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico IT junior en formación (ASIR).  
+Interesado en **sistemas**, **redes**, **ciberseguridad**, **virtualización** y **Cloud**.
 
-Here are some ideas to get you started:
+🛡️ Actualmente trabajando en:
+- Infraestructura segura en Oracle Cloud
+- Honeypots SSH y web (Cowrie y DVWA)
+- SIEM con Elastic Stack para monitorización y correlación de eventos
+- VPN WireGuard para análisis seguro del tráfico
+- Segmentación de red y hardening
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Siempre aprendiendo y mejorando.
