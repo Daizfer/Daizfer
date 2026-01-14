@@ -1,7 +1,7 @@
 👋 Hola soy Daizfer,
 
 Técnico IT junior en formación (ASIR).  
-Interesado en **sistemas**, **redes**, **ciberseguridad**, **virtualización** y **Cloud**.
+Interesado en **sistemas**, **redes**, **ciberseguridad**, **virtualización**, **automatización** y **Cloud**.
 
 🛡️ Actualmente trabajando en:
 - Infraestructura segura en Oracle Cloud
