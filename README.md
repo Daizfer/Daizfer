@@ -25,6 +25,11 @@ El objetivo del proyecto es simular una infraestructura corporativa segura, anal
 
 ---
 
+## 📜 Formación y certificaciones
+- AWS Academy Cloud Foundations
+
+---
+
 ## 🚀 Intereses técnicos
 
 - Administración de sistemas y redes (Windows Server, Linux, routing, segmentación y servicios de red)
