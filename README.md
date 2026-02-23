@@ -1,8 +1,10 @@
 # 👋 Hola, soy Daizfer
 
-Técnico IT junior en formación (ASIR), orientado a la administración de sistemas y redes como base profesional.
+Técnico IT junior en formación (ASIR), con enfoque principal en la administración de sistemas y redes.
 
-Interesado en la seguridad de infraestructuras y la segmentación de red, con un proyecto intermodular en Oracle Cloud enfocado en honeypots y SIEM para análisis de eventos. Formación en virtualización (Proxmox, VMware Workstation, VirtualBox), fundamentos de AWS (AWS Academy Cloud Foundations) y automatización básica con n8n.
+Interesado en la seguridad de infraestructuras y la segmentación de red. He desarrollado un proyecto intermodular en Oracle Cloud centrado en honeypots y SIEM para el análisis de eventos de seguridad.
+
+Formación en virtualización (Proxmox, VMware Workstation, VirtualBox), fundamentos de AWS (AWS Academy Cloud Foundations) y automatización básica con n8n.
 
 ---
 
@@ -25,7 +27,7 @@ El objetivo del proyecto es simular una infraestructura corporativa segura, anal
 
 ## 🚀 Intereses técnicos
 
-- Administración de sistemas y redes (Windows Server, Linux, routing, segmentación, servicios)
+- Administración de sistemas y redes (Windows Server, Linux, routing, segmentación y servicios de red)
 - Seguridad aplicada a infraestructuras (monitorización, hardening y análisis de eventos)
 - Virtualización (Proxmox, VMware Workstation, VirtualBox)
 - Cloud (AWS – Cloud Foundations, nociones en OCI)
